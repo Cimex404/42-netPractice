@@ -104,7 +104,7 @@ That means that networks with the masks /32 and /31 can not contain any devices 
   Here is an example of a simple problem:
 </p>
 <p>
-  <img src="https://github.com/Cimex404/42-netPractice/tree/master/Example.png" alt="Example Network" width="500">
+  <img src="https://github.com/Cimex404/42-netPractice/blob/master/Example.png" alt="Example Network" width="500">
 </p>
 
 
