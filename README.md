@@ -213,8 +213,8 @@ That means that networks with the masks /32 and /31 can not contain any devices 
 #	A little word of encouragement
 <p>
 	If you want to make sure you understand everything, keep playing through the levels, over and over.
-	It may start to get tyring, but trust me, after a while you have made every mistake possible and you'll know what do to to fix it.
-	Also, google for a conversion table and keep it docked while training, this will massively help you.
+	It may start to get tiring, but trust me, after a while you have made every mistake possible and you'll know what do to to fix it.
+	Also, google for a CIDR-conversion table and keep it docked while training, this will massively help you.
 </p>
 <p>
 	This is it from me.
